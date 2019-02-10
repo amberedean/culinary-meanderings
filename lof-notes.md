@@ -1,4 +1,4 @@
-# Some notes from The Language of Food:
+# Notes from The Language of Food
 
 "Eatymology" - the language of food helps us to understand the interconnectedness of civilizations.
 
