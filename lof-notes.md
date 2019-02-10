@@ -16,6 +16,7 @@ Expensive restaurants:
 - Fewer choices
 - Fancier (longer) words - Zips suggested frequent words are shorter to make communication more efficient (ever letter increase is an 18c increase)
 - Exotic or spices (framing)
+
 Cheaper restaurants:
 - More fillers such as colorful, flavorful. Also descriptive adjectives such as fresh, rich, flaky - Grice "maxim of relevance". Re-assurance.
 - Real - which foods associated have to do with its value such that there is a fake substitute
